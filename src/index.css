@@ -1,0 +1,21 @@
+/* Google Fonts - Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+@import "tailwindcss";
+html, body {
+  overflow-x: hidden;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  /* Ensure smooth scrolling for navigation links */
+  scroll-behavior: smooth;
+  
+}
+
+/* Custom glow effect for text */
+.text-shadow-glow {
+  text-shadow: 0 0 8px rgba(192, 132, 252, 0.7), /* purple-300 glow */
+               0 0 15px rgba(192, 132, 252, 0.5);
+}
+
+/* You might want to add more global styles here if needed */
