@@ -66,17 +66,17 @@ const About = () => {
             <div className="mt-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
               {/* Email */}
               <a
-                href="mailto:ajay@example.com"
+                href="mailto:ajaykumaraspha@com.com"
                 className="inline-flex items-center gap-2 text-purple-700 dark:text-cyan-300 hover:underline text-lg"
               >
                 <FaEnvelope className="text-xl" />
-                ajay@example.com
+                ajaykumaraspha@gmail.com
               </a>
 
               {/* Social Icons */}
               <div className="flex gap-6 text-2xl">
                 <a
-                  href="https://github.com/ajaykumar"
+                  href="https://github.com/ajay51119"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-700 dark:text-gray-300 hover:text-purple-600 dark:hover:text-cyan-300 transition"
@@ -84,7 +84,7 @@ const About = () => {
                   <FaGithub />
                 </a>
                 <a
-                  href="https://linkedin.com/in/ajaykumar"
+                  href="https://www.linkedin.com/in/ajay-kumar-516111245/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-700 dark:text-gray-300 hover:text-purple-600 dark:hover:text-cyan-300 transition"

@@ -16,7 +16,7 @@ const projects = [
       'Ensures input validation and smooth user experience.',
     ],
     tech: [FaJava],
-    sourceLink: '#',
+    sourceLink: 'https://github.com/Ajay51119/',
   },
   {
     title: '🧠 Emotion & Sentiment Analysis Tool',
@@ -27,7 +27,7 @@ const projects = [
       'Built with Python, Streamlit, React, and NLP tools.',
     ],
     tech: [SiPython, SiOpencv, SiStreamlit, SiReact],
-    sourceLink: '#',
+    sourceLink: 'https://github.com/Ajay51119/',
   },
   {
     title: '📝 GenX - Text Editor',
@@ -38,7 +38,7 @@ const projects = [
       'Designed using Python and Shell.',
     ],
     tech: [SiPython, SiC, FaTerminal], // ✅ replaced SiTkinter with FaTerminal
-    sourceLink: '#',
+    sourceLink: 'https://github.com/Ajay51119/Genx',
   },
 ];
 
